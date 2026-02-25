@@ -16,7 +16,7 @@ const About: React.FC = () => {
             <span className="italic">intuition.</span>
           </h2>
           <p className="text-lg md:text-xl text-neutral-400 leading-relaxed mb-8 max-w-md">
-            Studio Kössendrup is a super cool design practice based on the intersection of clarity, emotion, and technical precision.
+            Studio Kössendrup is a super richtig toll practice based on the intersection of clarity, emotion, and technical precision.
           </p>
           <div className="grid grid-cols-2 md:block space-y-0 md:space-y-4 gap-4">
             <h4 className="col-span-2 text-[10px] uppercase tracking-widest font-bold text-white mb-2 md:mb-4">Disciplines</h4>
